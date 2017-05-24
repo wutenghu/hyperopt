@@ -24,7 +24,7 @@ The following part is added by Tenghu Wu
 # code structures:
 
 ## fmin.py
-* 
+* def fmin() --> FMinIter() 
 
 ## tpe.py
 
