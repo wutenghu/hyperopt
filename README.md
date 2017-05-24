@@ -19,10 +19,14 @@ This project has received support from
 * D-Wave Systems, Inc.
 
 ****
+The following part is added by Tenghu Wu
+****
 # code structures:
 
 ## fmin.py
+* 
 
 ## tpe.py
 
 ## hp.py
+* load-in parameter scalling functions
