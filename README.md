@@ -1,21 +1,14 @@
-hyperopt: Distributed Asynchronous Hyper-parameter Optimization
-===============================================================
+# hyperopt: Distributed Asynchronous Hyper-parameter Optimization
 
-Hyperopt is a Python library for serial and parallel optimization over awkward
-search spaces, which may include real-valued, discrete, and conditional
-dimensions.
+Hyperopt is a Python library for serial and parallel optimization over awkward search spaces, which may include real-valued, discrete, and conditional dimensions.
 
-Official project git repository:
-http://github.com/hyperopt/hyperopt
+1. [Official project git repository](http://github.com/hyperopt/hyperopt)
 
-Documentation:
-http://hyperopt.github.io/hyperopt
+2. [Documentation](http://hyperopt.github.io/hyperopt)
 
-Announcements mailing list:
-https://groups.google.com/forum/#!forum/hyperopt-announce
+3. [Announcements mailing list](https://groups.google.com/forum/#!forum/hyperopt-announce)
 
-Discussion mailing list:
-https://groups.google.com/forum/#!forum/hyperopt-discuss
+4. [Discussion mailing list](https://groups.google.com/forum/#!forum/hyperopt-discuss)
 
 
 Thanks
