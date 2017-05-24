@@ -26,5 +26,6 @@ This project has received support from
 * National Science and Engineering Research Council of Canada (NSERC),
 * D-Wave Systems, Inc.
 
+****
 
 
