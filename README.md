@@ -11,7 +11,6 @@ Hyperopt is a Python library for serial and parallel optimization over awkward s
 4. [Discussion mailing list](https://groups.google.com/forum/#!forum/hyperopt-discuss)
 
 
-Author thanks to
 ------
 This project has received support from
 * National Science Foundation (IIS-0963668),
